@@ -31,7 +31,7 @@
 - **Preprocessing Steps**:
   - Grayscale conversion and resizing to 224x224 pixels.
   - Contrast, brightness, and sharpening adjustments for clarity.
-  - Focus cropping to isolate brain regions from non-related backgrounds.
+  - Focus cropping to isolate brain regions from non-important backgrounds.
 
 ---
 
